@@ -1,4 +1,4 @@
-# SimpleLangParserExecuter
+# Parser-Executer
 Procedure-Oriented Language Parser and Executor
 
 ## Simple Compiler/Executor for a Custom Programming Language
