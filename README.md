@@ -13,12 +13,14 @@ This project is a simple compiler and executor for a custom programming language
 ## Installation
 1. To set up the parser on your local machine:
 ```git clone https://github.com/your-username/your-repository.git```
+
 2. Navigate to the cloned directory
 ```cd your-repository```
 
 ## Usage
 To use the parser, compile the source files using a C++ compiler that supports C++11 standards. For instance, using g++ you would run:
 ```g++ -std=c++11 parser.cc -o parser```
+
 To execute the parser, you can run it directly from the command line:
 ```./parser```
 
